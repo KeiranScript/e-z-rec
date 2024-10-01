@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"e-z-rec/modules" // Replace with your actual module path
+	"github.com/KeiranScript/e-z-rec" // Replace with your actual module path
 )
 
 func main() {
